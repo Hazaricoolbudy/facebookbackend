@@ -1,3 +1,3 @@
-exports.home = (req, res) => {
-    res.send("hello from the server")
-}
+exports.register = (req, res) => {
+  res.send("hello from the server");
+};
